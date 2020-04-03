@@ -1,1 +1,22 @@
-/* test */
+
+
+.right {
+    text-align: right;
+}
+
+.alert {
+    padding: .125rem .51rem;
+}
+
+a.navbar-brand {
+    margin: 0;
+}
+
+img.small {
+    max-height: 150px;
+    margin: 5px;
+}
+
+.push-down {
+    margin-top: 10px;
+}
