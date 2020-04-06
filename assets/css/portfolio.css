@@ -26,12 +26,12 @@ div.card.push-down {
 }
 
 div.card.small {
-    height: 300px;
+    height: 200px;
     padding: 0;
 }
 
 div.card.small img {
-    max-height: 300px;
+    max-height: 190px;
 }
 
 .card-img-overlay {
